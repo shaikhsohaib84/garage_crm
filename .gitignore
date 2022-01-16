@@ -3,3 +3,14 @@ crm/crm/__pycache__/urls.cpython-39.pyc
 crm/crm/__pycache__/settings.cpython-39.pyc
 crm/crm/__pycache__/__init__.cpython-39.pyc
 crm/db.sqlite3
+crm-frontend/package-lock.json
+crm-frontend/package.json
+crm-frontend/public/favicon.ico
+crm-frontend/public/index.html
+crm-frontend/public/logo192.png
+crm-frontend/public/logo512.png
+crm-frontend/public/manifest.json
+crm-frontend/public/robots.txt
+crm-frontend/src/logo.svg
+crm-frontend/src/reportWebVitals.js
+crm-frontend/src/setupTests.js
