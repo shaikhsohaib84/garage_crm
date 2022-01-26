@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework',
 
-    'garageApp'
+    'garage'
 ]
 
 MIDDLEWARE = [

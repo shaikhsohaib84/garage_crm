@@ -1,0 +1,14 @@
+---- Version using ----
+Python: 3.9.9
+Django: 4.0
+node v14.18.3 (npm v6.14.15)
+----------------------------------------------------------------
+
+--- Adding the user/customer for service flow ---
+** NOTE: All this data will be saved in redux session, API will only be called in final save **
+
+1: Add user data
+2: Add vechile data
+3: Add service data
+---------------------------------------------------------------
+
